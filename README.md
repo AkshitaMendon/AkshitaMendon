@@ -7,7 +7,7 @@ Data Science Enthusiast | Proficient in Python, SQL, Data Visualization tools | 
 I am a dedicated Computer Science Engineering graduate with a specialization in Data Science, bringing a robust background in Python, SQL, and data visualization tools like Matplotlib and Seaborn. Embracing new technology challenges with enthusiasm, I am committed to ongoing learning and innovative problem-solving. My coursework has provided me with hands-on experience, and I am passionate about using data to derive actionable insights. I am excited to contribute to the ever-evolving field of Data Science and to drive innovation within a forward-thinking organization.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [akshitamendon4@gmail.com](mailto:akshitamendon025@gmail.com)
+* ✉️  You can contact me at [akshitamendon025@gmail.com](mailto:akshitamendon025@gmail.com)
 * 🧠  I'm learning TensorFlow, ML Systems and NLP
 
 <a href="https://www.github.com/AkshitaMendon" target="_blank" rel="noreferrer"><img
