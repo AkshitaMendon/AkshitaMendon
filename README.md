@@ -33,4 +33,8 @@ src="https://img.shields.io/github/followers/AkshitaMendon?logo=github&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AkshitaMendon/RidEzy-CabBooking" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshitaMendon&repo=RidEzy-CabBooking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AkshitaMendon/CustomerSegmentationusingGMM" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshitaMendon&repo=CustomerSegmentationusingGMM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/AkshitaMendon/MLModel" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkshitaMendon&repo=MLModel&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
